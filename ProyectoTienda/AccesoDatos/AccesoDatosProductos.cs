@@ -23,7 +23,7 @@ namespace AccesoDatos
 
         public void Modificar(dynamic Entidad)
         {
-            b.Comando(string.Format("update productos set nommbre='{0}',descripcion='{2}', precio={3}, where idproducto={1}",
+            b.Comando(string.Format("update productos set nommbre='{1}',descripcion='{2}', precio={3}, where idproducto={0}",
              Entidad._Nombre, Entidad._Descripcion, Entidad._Precio, Entidad._Idproductos));
         }
 

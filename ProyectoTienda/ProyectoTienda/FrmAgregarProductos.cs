@@ -44,13 +44,13 @@ namespace ProyectoTienda
         {
             switch (columna)
             {
-                case 5:
+                case 4:
                     {
                         MessageBox.Show(me.Borrar(producto));
                         Actualizar();
                     }
                     break;
-                case 6:
+                case 5:
                     {
                         FrmProductos pd = new FrmProductos();
                         pd.ShowDialog();
