@@ -15,7 +15,7 @@ namespace AccesoDatos
             public Base()
             {
                 con = new MySqlConnection("server=localhost; user=root; password=;" +
-                    "database=Tienda");
+                    "database=tienda");
             }
             public string Comando(string q)
             {
