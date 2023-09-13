@@ -37,7 +37,7 @@ namespace ProyectoTienda
             else
             {
                 MessageBox.Show(me.Guardar(new Productos(0, txtNombre.Text, txtDescripcion.Text, double.Parse(txtPrecio.Text))));
-            }
+            }    
             Close();
         }
     }
