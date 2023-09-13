@@ -48,7 +48,7 @@
             this.btnAgregar.ForeColor = System.Drawing.Color.Transparent;
             this.btnAgregar.Location = new System.Drawing.Point(442, 300);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(73, 70);
+            this.btnAgregar.Size = new System.Drawing.Size(56, 52);
             this.btnAgregar.TabIndex = 18;
             this.btnAgregar.UseVisualStyleBackColor = false;
             this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
@@ -129,10 +129,9 @@
             this.Controls.Add(this.label1);
             this.DoubleBuffered = true;
             this.Font = new System.Drawing.Font("Microsoft YaHei Light", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "FrmProductos";
             this.Text = "Productos";
-            this.Load += new System.EventHandler(this.FrmProductos_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

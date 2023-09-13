@@ -12,7 +12,7 @@ namespace AccesoDatos
         Base b = new Base();
         public string Borrar(dynamic Entidad)
         {
-            return b.Comando(string.Format("delete from productos where idproductos={0}", Entidad._Idproductos));
+            return b.Comando(string.Format("delete from productos where idproducto={0}", Entidad._Idproductos));
         }
 
         public string Guardar(dynamic Entidad)

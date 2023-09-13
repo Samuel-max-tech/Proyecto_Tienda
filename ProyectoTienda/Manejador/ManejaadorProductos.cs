@@ -21,8 +21,8 @@ namespace Manejador
             {
                 Productos producto = Entidad;
                 DialogResult rs = MessageBox.Show(
-                string.Format("Estas seguro de borrar al empleado:{1}",
-                producto._Nombre), "!Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                string.Format("Estas seguro de borrar al empleado:{0}",
+                producto._Idproductos), "!Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (rs == DialogResult.Yes)
                     return ade.Borrar(Entidad);
                 else

@@ -27,11 +27,6 @@ namespace ProyectoTienda
             }
         }
 
-        private void FrmProductos_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             if (FrmAgregarProductos.producto._Idproductos > 0)
