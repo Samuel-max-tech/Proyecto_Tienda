@@ -48,12 +48,7 @@ C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\bin\De
 C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\bin\Debug\AccesoDatos.pdb
 C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\bin\Debug\AccesoDatos.dll.config
-C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.AssemblyReference.cache
-C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.FrmProductos.resources
 C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.FrmAgregarProductos.resources
-C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.Properties.Resources.resources
-C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
-C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
 C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CopyComplete
 C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.exe
 C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.pdb

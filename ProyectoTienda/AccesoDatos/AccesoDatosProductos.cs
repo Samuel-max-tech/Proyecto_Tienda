@@ -24,7 +24,7 @@ namespace AccesoDatos
         public void Modificar(dynamic Entidad)
         {
             b.Comando(string.Format("update productos set nommbre='{1}',descripcion='{2}', precio={3}, where idproducto={0}",
-             Entidad._Nombre, Entidad._Descripcion, Entidad._Precio, Entidad._Idproductos));
+              Entidad._Idproductos, Entidad._Nombre, Entidad._Descripcion, Entidad._Precio));
         }
 
         public DataSet Mostrar(string f)
