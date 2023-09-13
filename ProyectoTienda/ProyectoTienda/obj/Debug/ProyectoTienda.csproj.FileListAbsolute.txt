@@ -1,0 +1,6 @@
+C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.AssemblyReference.cache
+C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.FrmProductos.resources
+C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.Form1.resources
+C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
+C:\Users\smart\OneDrive\Escritorio\Proyecto\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
