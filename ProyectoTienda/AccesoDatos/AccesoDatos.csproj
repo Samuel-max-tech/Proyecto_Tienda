@@ -96,10 +96,17 @@
     <Compile Include="AccesoDatosProductos.cs" />
     <Compile Include="Base.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TFunciones.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{a48dce2a-7df2-4976-968d-505a3616b8ec}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

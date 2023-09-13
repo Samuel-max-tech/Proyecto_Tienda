@@ -22,7 +22,7 @@ namespace Manejador
                 Productos producto = Entidad;
                 DialogResult rs = MessageBox.Show(
                 string.Format("Estas seguro de borrar al empleado:{0}",
-                producto._Nombre), "!Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                producto._Idproductos), "!Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (rs == DialogResult.Yes)
                     return ade.Borrar(Entidad);
                 else
@@ -42,8 +42,8 @@ namespace Manejador
             {
                 tabla.Columns.Clear();
                 tabla.DataSource = ade.Mostrar(f).Tables[0];
-                tabla.Columns.Insert(5, c.Boton("Eliminar"));
-                tabla.Columns.Insert(6, c.Boton("Editar"));
+                tabla.Columns.Insert(4, c.Boton("Eliminar"));
+                tabla.Columns.Insert(5, c.Boton("Editar"));
                 tabla.AutoResizeColumns();
                 tabla.AutoResizeRows();
             }
